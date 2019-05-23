@@ -14,7 +14,7 @@ public class Student
 {
     private String name;
     private String studentID;
-    private String program;
+    private String program = "Computer Programmer" ;
     private boolean isFullTime = true;
     
     public Student()
